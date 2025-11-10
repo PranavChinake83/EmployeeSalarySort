@@ -2,7 +2,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class EventProcessingSystem {
+public class EventProcessingSystem1 {
     private static Queue<String> eventQueue = new LinkedList<>();
 
     // Add an Event
